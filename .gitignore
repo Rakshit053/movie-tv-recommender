@@ -1,0 +1,15 @@
+# Virtual environment — 117 MB, rebuilt from requirements.txt
+.venv/
+
+# Python bytecode — regenerated automatically on every run
+__pycache__/
+*.pyc
+
+# Datasets — too large for Git, and re-downloadable (see README)
+data/
+
+# Secrets — API keys must never enter a repository
+.env
+
+# macOS Finder clutter
+.DS_Store
